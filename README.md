@@ -15,33 +15,39 @@ I'm an IT professional with nearly 2 years of experience in healthcare data proc
 
 ## 📊 Featured Projects
 
-### 1. Customer Shopping Behavior Analysis
-Analyzed customer shopping data to explore purchasing patterns, customer segments, product performance, and discount-related trends using SQL, Python, and Power BI.
-
-[View Project](https://github.com/Bharani2806/Customer-Shopping-Behavior-Analysis)
-
-### 2. Zomato Restaurant Analysis
-Explored Bangalore restaurant data to analyze restaurant categories, ratings, online ordering, table booking, and customer engagement patterns.
-
-[View Project](https://github.com/Bharani2806/Zomato-Restaurant-Analysis)
-
-### 3. Vendor Performance Analysis
+### 1. Vendor Performance Analysis
 Built a vendor analytics project to examine sales performance and present business insights through data analysis and Power BI dashboards.
 
 [View Project](https://github.com/Bharani2806/Vendor-Analysis)
 
-### 4. Messaging-app
+### 2.Stock-market-prediction
+
+Built a model using GAN which predicts Stock Market using GAN and X-Sentimental analysis
+
+[View Project](https://github.com/Bharani2806/Stock-market-prediction)
+
+### 3. Messaging-app
 
 Built an android messaging application
 
 [View Project](https://github.com/Bharani2806/Messaging-app)
 
-### 5.Stock-market-prediction
-
-Built a model using GAN which predicts Stock Market using GAN and X-Sentimental analysis
 
 
-[View Project](https://github.com/Bharani2806/Stock-market-prediction)
+### 4. Customer Shopping Behavior Analysis
+Analyzed customer shopping data to explore purchasing patterns, customer segments, product performance, and discount-related trends using SQL, Python, and Power BI.
+
+[View Project](https://github.com/Bharani2806/Customer-Shopping-Behavior-Analysis)
+
+### 5. Zomato Restaurant Analysis
+Explored Bangalore restaurant data to analyze restaurant categories, ratings, online ordering, table booking, and customer engagement patterns.
+
+[View Project](https://github.com/Bharani2806/Zomato-Restaurant-Analysis)
+
+
+
+
+
 
 
 ## 🤝 Connect With Me
