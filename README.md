@@ -41,7 +41,8 @@ Built an android messaging application
 Built a model using GAN which predicts Stock Market using GAN and X-Sentimental analysis
 
 
-[View Project]
+[View Project](https://github.com/Bharani2806/Stock-market-prediction)
+
 
 ## 🤝 Connect With Me
 
