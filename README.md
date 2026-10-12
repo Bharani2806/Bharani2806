@@ -30,6 +30,19 @@ Built a vendor analytics project to examine sales performance and present busine
 
 [View Project](https://github.com/Bharani2806/Vendor-Analysis)
 
+### 4. Messaging-app
+
+Built an android messaging application
+
+[View Project](https://github.com/Bharani2806/Messaging-app)
+
+### 5.Stock-market-prediction
+
+Built a model using GAN which predicts Stock Market using GAN and X-Sentimental analysis
+
+
+[View Project]
+
 ## 🤝 Connect With Me
 
 - **LinkedIn:** [Bharani S](https://www.linkedin.com/in/bharani-s-512a66361)
