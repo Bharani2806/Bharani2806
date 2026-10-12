@@ -33,7 +33,7 @@ Built a vendor analytics project to examine sales performance and present busine
 ## 🤝 Connect With Me
 
 - **LinkedIn:** [Bharani S](https://www.linkedin.com/in/bharani-s-512a66361)
-- **GitHub:** [Bharani2806](https://github.com/Bharani2806)## Hi there 👋
+- **GitHub:** [Bharani2806](https://github.com/Bharani2806)
 
 <!--
 **Bharani2806/Bharani2806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
